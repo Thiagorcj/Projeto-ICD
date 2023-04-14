@@ -1,6 +1,11 @@
 # Projeto-ICD
 ## Professor: Yuri  Malheiros
-## Grupo de alunos: Thiago Rodrigues, Gisele Freitas, Maria Eduarda Hora, Daniele Vitória
+
+## Grupo de alunos: 
+* Daniele Vitoria Morais Silva (20220007392)
+* Gisele de Freitas Menezes (20220055765)
+* Maria Eduarda Bandeira Hora de Vasconcelos (20220007230)
+* Thiago Rodrigues Cruz Justino (20220007276)
 
 
 ### Perguntas:
