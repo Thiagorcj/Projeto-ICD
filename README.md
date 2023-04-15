@@ -17,5 +17,5 @@
 Kaggle: https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents
 
 
-Dados do governo federal: https://dados.gov.br/dados/conjuntos-dados/relacao-das-pessoas-envolvidas-nos-acidentes-de-transito-com-vitima
+Dados do governo federal: https://dados.gov.br/dados/conjuntos-dados/quantidade-acidentes-de-transito
 
