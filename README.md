@@ -1,4 +1,4 @@
-# Projeto-ICD
+# Projeto-Introdução à ciência de dados
 ### Professor: Yuri  Malheiros
 
 ### Grupo de alunos: 
