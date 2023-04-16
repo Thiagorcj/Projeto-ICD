@@ -1,4 +1,4 @@
-# Projeto-Introdução à ciência de dados
+# Projeto-Introdução à Ciência de Dados
 ### Professor: Yuri  Malheiros
 
 ### Grupo de alunos: 
