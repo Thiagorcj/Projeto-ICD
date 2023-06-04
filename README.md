@@ -10,8 +10,8 @@
 
 ### Perguntas:
 1) Quais locais ocorrem mais acidentes no Brasil?
-2) Quais as causas mais recorrentes de acidentes de trânsito no Brasil?
-3) Como o estado da pista e as condições metereológicas interferem nos acidentes de trânsito no país?
+2) Em que dias da semana e horários ocorrem mais acidentes de trânsito no Brasil?
+3) Quais foram os tipos de acidentes mais recorrentes?
 
 ### Referências:
 Kaggle: https://www.kaggle.com/datasets/mcamera/brazil-highway-traffic-accidents
